@@ -1,6 +1,6 @@
 # GitHub Tutorial Space
 
-Welcome to the GitHub Tutorial Space! This project is designed to help students learn the essential skills needed to work with GitHub. Through this tutorial, you will gain hands-on experience with forking, cloning, dealing with conflicts, and making pull requests.
+Welcome to the GitHub Tutorial Space! This project is designed to help students learn the essential skills needed to work with GitHub. Through this tutorial, you will gain hands-on experience with forking, cloning, dealing with conflicts, and making pull requests.a
 
 ## Getting Started
 
